@@ -3,7 +3,7 @@ package pl_java.exercise_1;
 public class Main {
     public static void main(String args[]) {
         CustomTime cTime = new CustomTime();
-        printTime(cTime.getTime());
+       printTime(cTime.getTime());
     }
 
     public static void printTime(int[] time){
